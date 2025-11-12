@@ -1,1 +1,1 @@
-simple applicatio n
+simple application
